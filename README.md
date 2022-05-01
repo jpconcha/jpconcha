@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jpconcha
+- 👋 Hi, I’m @jpconcha,the mathematical engineer
 
 <!---
 jpconcha/jpconcha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
